@@ -9,7 +9,7 @@ apt-get install unzip -y
 
 echo "Baixando a aplicacao e descompatando..."
 
-cd /temp
+cd /tmp
 wget https://github.com/cirobispopub/quiz/archive/refs/heads/main.zip
 
 unzip main.zip
